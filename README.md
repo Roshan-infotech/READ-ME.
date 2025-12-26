@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="300" src="/Roshan.jpeg"  />
+<img align="right" height="250" src="/Roshan.jpeg"  />
 
 <h3 align="left">👩‍💻  About Me</h3>
 
