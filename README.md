@@ -5,7 +5,7 @@
 
 
 
-<img align="right" height="300" src="/Roshan.jpg"  />
+<img align="right" height="300" src="/Roshan.jpeg"  />
 
 <h3 align="left">👩‍💻  About Me</h3>
 
