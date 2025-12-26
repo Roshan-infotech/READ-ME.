@@ -1,7 +1,9 @@
 
+
 <h1 align="center">Hi 👋! I am Rithick Roshan</h1>
 
 <h3 align="center">Hardware Hacker</h3>
+
 
 
 <img align="right" height="300" src="/Roshan.jpeg"  />
